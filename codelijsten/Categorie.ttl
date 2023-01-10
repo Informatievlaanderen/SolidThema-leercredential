@@ -1,110 +1,110 @@
-<https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie>
+<https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
     <http://purl.org/dc/terms/modified> "2022-08-10" ;
     <http://www.w3.org/2004/02/skos/core#definition> "De categorie omvat de grote indeling waartoe het bewijs behoort. De categorie is het meest elementaire onderdeel van de classificatie van de bewijzen."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Categorie"@nl .
     
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/AndereOpleidingen>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/AndereOpleidingen>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Andere opleidingen"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Andere opleidingen"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/Basiseducatie>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/Basiseducatie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Basiseducatie"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Basiseducatie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/ErkendeErvaring>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/ErkendeErvaring>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Erkende ervaring"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Erkende ervaring"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/Ervaringsbewijzen>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/Ervaringsbewijzen>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Ervaringsbewijzen"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Ervaringsbewijzen"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/HogerBeroepsonderwijs>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/HogerBeroepsonderwijs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Hoger beroepsonderwijs"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger beroepsonderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/HogerOnderwijs>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/HogerOnderwijs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Hoger onderwijs"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/Inburgering>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/Inburgering>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Inburgering"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Inburgering"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/LagerOnderwijs>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/LagerOnderwijs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Lager onderwijs"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Lager onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/Leertijd>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/Leertijd>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Leertijd"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Leertijd"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/NietBeschikbaar>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/NietBeschikbaar>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Niet beschikbaar"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beschikbaar"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/Omgeving>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/Omgeving>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Omgeving"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Omgeving"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/WerkSocialeEconomie>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/WerkSocialeEconomie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Werk & Sociale Economie"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Werk & Sociale Economie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/Ondernemersopleidingen>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/Ondernemersopleidingen>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Ondernemersopleidingen"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Ondernemersopleidingen"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/SecundairOnderwijs>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/SecundairOnderwijs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Secundair onderwijs"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Secundair onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/Taalexamen>
+<https://solid.data.vlaanderen.be/ns/Leercredential/concept/Categorie/Taalexamen>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Taalexamen"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Taalexamen"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
