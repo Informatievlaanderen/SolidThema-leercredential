@@ -1,0 +1,40 @@
+<https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/modified> "2022-08-04" ;
+    <http://www.w3.org/2004/02/skos/core#definition> "De authenticiteit van een bepaalde bron."@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Authenticiteit"@nl .
+        
+<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Authenticiteit/Authentiek>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Authentiek"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Authentiek"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> .
+
+<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Authenticiteit/EigenVerklaringGeverifieerd>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Eigen verklaring - Geverifieerd"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eigen verklaring - Geverifieerd"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> .
+
+<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Authenticiteit/EigenVerklaringOpEer>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Eigen verklaring - Op eer"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Eigen verklaring - Op eer"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> .
+
+<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Authenticiteit/Geverifieerd>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Geverifieerd"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geverifieerd"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> .
+
+<https://solid.api.vlaanderen.be/ns/Leercredential/concept/Authenticiteit/OpEer>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Op eer"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Op eer"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Authenticiteit> .
