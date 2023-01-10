@@ -18,7 +18,6 @@
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Categorie> .
 
-
 <https://solid.api.vlaanderen.be/ns/Leercredential/concept/Categorie/ErkendeErvaring>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Erkende ervaring"@nl ;
