@@ -1,7 +1,7 @@
 <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Graad>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
     <http://purl.org/dc/terms/modified> "2022-08-10" ;
-    <http://www.w3.org/2004/02/skos/core#definition> "De graad is een verplicht gegeven voor alle onderwijscategorieÃ«n (lager, secundair, hoger en hoger beroeps). Voor alle andere categorieÃ«n, is de graad â€˜Niet van toepassingâ€™."@nl ;
+    <http://www.w3.org/2004/02/skos/core#definition> "De graad is een verplicht gegeven voor alle onderwijscategorieën (lager, secundair, hoger en hoger beroeps). Voor alle andere categorieën, is de graad 'Niet van toepassing'."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Graad"@nl .
 
 <https://solid.api.vlaanderen.be/ns/Leercredential/concept/Graad/1SteGraad>
@@ -48,8 +48,8 @@
 
 <https://solid.api.vlaanderen.be/ns/Leercredential/concept/Graad/AcademischeInitieleLerarenopleiding>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
-    <http://www.w3.org/2004/02/skos/core#notation> "Academische initiÃ«le lerarenopleiding"@nl ;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Academische initiÃ«le lerarenopleiding"@nl ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Academische initiële lerarenopleiding"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Academische initiële lerarenopleiding"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Graad> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Graad> .
 
