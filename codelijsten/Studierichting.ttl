@@ -1,5 +1,5 @@
-<https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Studierichting>
+<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Studierichting>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-    <http://purl.org/dc/terms/modified> "2022-08-04" ;
+    <http://purl.org/dc/terms/modified> "2023-01-11" ;
     <http://www.w3.org/2004/02/skos/core#definition> "De studierichting (of het vakgebied) is een verdere verfijning van het onderwerp en het ISCED studiegebied uit de taxonomie."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Studierichting"@nl .
