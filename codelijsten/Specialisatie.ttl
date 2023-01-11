@@ -1,5 +1,5 @@
-<https://solid.api.vlaanderen.be/ns/Leercredential/conceptscheme/Specialisatie>
+<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Specialisatie>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-    <http://purl.org/dc/terms/modified> "2022-08-04" ;
+    <http://purl.org/dc/terms/modified> "2023-01-11" ;
     <http://www.w3.org/2004/02/skos/core#definition> "De specialisatie is een verdere verfijning van de studierichting."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Specialisatie"@nl .
