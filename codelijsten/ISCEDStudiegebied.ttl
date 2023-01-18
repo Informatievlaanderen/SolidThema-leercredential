@@ -1,0 +1,628 @@
+<https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/modified> "2023-08-10" ;
+    <http://www.w3.org/2004/02/skos/core#definition> "De indeling van de studiegebieden volgens ISCED is een opdeling die internationale statistieken en vergelijkingen in verband met onderwijs en opleidingen mogelijk maakt. De standaard is in de loop van de jaren 1970 door de UNESCO in het leven geroepen en later verder ontwikkeld. De standaard biedt niet alleen een omschrijving van de studiegebieden, maar ordent deze ook op diverse diepteniveauâ€™s aan de hand van een driecijferige code waarbij elk volgend cijfer een volgend niveau voorstelt."@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "ISCEDStudiegebied"@nl .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/010>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "010"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Basisopleidingen, algemene opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/080>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "080"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geletterdheid en wiskundige geletterdheid"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/090>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "090"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Persoonlijke vaardigheden"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/141>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "141"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lerarenopleiding"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/142>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "142"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Pedagogische wetenschappen en onderwijskunde"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/146>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "146"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Opleiding voor leraars in beroepsgerichte vakken"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/210>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "210"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunsten:brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/211>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "211"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Beeldende kunsten"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/212>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "212"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Muziek en podiumkunsten"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/213>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "213"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Audiovisuele technieken en media"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/214>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "214"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vormgeving & design"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/215>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "215"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ambachten"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/220>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "220"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Religie, Taal- en letterkunde, geschiedenis & Filosofie: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/221>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "221"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Godsdienst"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/222>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "222"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vreemde talen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/223>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "223"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Moedertaal"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/225>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "225"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geschiedenis en archeologie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/226>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "226"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Filosofie en ethiek"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/310>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "310"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sociale en gedragswetenschappen: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/311>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "311"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychologie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/312>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "312"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sociologie en cultuurwetenschappen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/313>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "313"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Politieke wetenschappen en maatschappijleer"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/314>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "314"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Economie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/321>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "321"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Journalistiek en verslaggeving"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/322>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "322"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bibliotheekwetenschappen, informatie en archivering"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/340>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "340"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Handel en administratie: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/341>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "341"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Groothandel en kleinhandel"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/342>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "342"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Marketing"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/343>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "343"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Financiën, bankwezen en verzekeringen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/344>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "344"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Accounting en fiscaliteit"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/345>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "345"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Management en administratie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/346>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "346"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Secretariaatswerk"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/347>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "347"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Syndicaalwerk en arbeidsorganisatie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/380>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "380"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Recht"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/420>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "420"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biologische wetenschappen:brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/421>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "421"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Biologie en biochemie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/422>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "422"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Milieuwetenschappen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/440>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "440"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Natuurwetenschappen: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/441>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "441"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fysica"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/442>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "442"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/443>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "443"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Aardrijkskunde"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/461>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "461"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wiskunde"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/462>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "462"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistiek"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/481>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "481"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Computerwetenschappen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/482>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "482"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Computergebruik"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/520>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "520"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Techniek en ingenieursopleidingen: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/521>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "521"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mechanica en metaal"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/522>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "522"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektriciteit en energie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/523>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "523"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektronica en automatisatie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/524>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "524"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemie en scheikundige processen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/525>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "525"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Motorvoertuigen, schepen en vliegtuigen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/540>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "540"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Produktie en produktieprocessen: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/541>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "541"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Voeding"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/542>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "542"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Textiel, kleding, schoenen, leder"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/543>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "543"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "hout, papier, plastiek, glas"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/544>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "544"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mijnkunde en grondstofwinning"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/581>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "581"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Architectuur en stedenbouw"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/582>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "582"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bouw, weg- en waterbouwkunde"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/620>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "620"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Landbouw, bosbouw en visserij: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/621>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "621"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Oogst en veeproduktie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/622>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "622"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuinbouw"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/623>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "623"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bosbouw"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/624>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "624"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Visserij"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/640>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "640"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diergeneeskunde"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/641>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "641"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diergeneeskunde"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/720>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "720"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gezondheid: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/721>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "721"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geneeskunde"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/723>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "723"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verpleging en verzorging"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/724>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "724"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tandarts"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/725>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "725"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Medische diagnose en behandeling"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/726>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "726"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Therapie en rehabilitatie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/727>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "727"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Farmacie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/761>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "761"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinderopvang en diensten voor jongeren"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/762>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "762"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sociaal werk en professionele hulpverlening"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/810>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "810"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Persoonsdiensten: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/811>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "811"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hotel, restaurant en catering"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/812>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "812"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Reizen, toerisme en vrije tijd"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/813>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "813"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sport"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/814>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "814"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Huishoudkunde"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/815>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "815"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Haarzorg/Lichaamsverzorging"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/840>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "840"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Transport"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/850>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "850"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Milieubescherming: brede opleidingen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/851>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "851"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Milieutechnologie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/852>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "852"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Natuurbehoud"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/853>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "853"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Openbaar onderhoud"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/861>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "861"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bescherming van personen en eigendommen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/862>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "862"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gezondheid op het werk en veiligheid"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/863>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "863"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Militaire opleidingen en defensie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
+
+<https://data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/999>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "999"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet gespecifieerd"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDStudiegebied> .
