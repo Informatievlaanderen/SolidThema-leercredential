@@ -4,100 +4,114 @@
   <http://www.w3.org/2004/02/skos/core#definition> "De organisatie die het leerbewijs aanlevert aan de LED."@nl ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Leverancier"@nl .
 
-<https://data.vlaanderen.be/id/organisatie/OVO000853>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000853>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Examencommissie "@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Centrale Examencommissie"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000853> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO003323>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO003323>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Departement Omgeving"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Departement Omgeving"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO003323> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO000076>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000076>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Departement Werk en Sociale Economie"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Departement Werk en Sociale Economie"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000076> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO037880>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO037880>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Examencommissie"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Examencommissie secundair onderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO037880> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO001957>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO001957>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger- en Volwassenenonderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Hoger onderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO001957> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO001846>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO001846>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentschap Integratie en Inburgering"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Inburgering"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO001846> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO000332>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000332>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Scholen Basisonderwijs, CLB en DKO"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Lager onderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000332> .
 
-<https://data.vlaanderen.be/id/organisatie/OVOO000854>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVOO000854>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "NARIC Vlaanderen"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "NARIC-Vlaanderen"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVOO000854> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO000079>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000079>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "VLAAMS AGENTSCHAP VOOR ONDERNEMERSVORMING - SYNTRA VLAANDEREN"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "SYNTRA Vlaanderen"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000079> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO000334>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000334>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Scholen Secundair Onderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Secundair onderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000334> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO000078>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000078>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "VDAB"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000078> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO000039>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000039>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentschap Innoveren en Ondernemen"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "VLAIO"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000039> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO000090>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000090>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams Energie- en Klimaatagentschap"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Vlaams Energie- en Klimaatagentschap"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000090> .
 
-<https://data.vlaanderen.be/id/organisatie/OVO001957>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO001957>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger- en Volwassenenonderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Volwassenenonderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> .
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO001957> .
