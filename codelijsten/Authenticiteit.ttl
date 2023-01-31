@@ -2,7 +2,12 @@
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
     <http://purl.org/dc/terms/modified> "2023-01-11" ;
     <http://www.w3.org/2004/02/skos/core#definition> "De authenticiteit van een bepaalde bron."@nl ;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Authenticiteit"@nl .
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Authenticiteit"@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Authenticiteit/Authentiek> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Authenticiteit/EigenVerklaringGeverifieerd> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Authenticiteit/EigenVerklaringOpEer> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Authenticiteit/Geverifieerd> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Authenticiteit/OpEer> .
         
 <https://solid.data.vlaanderen.be/id/concept/Leercredential/Authenticiteit/Authentiek>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
