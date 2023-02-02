@@ -1,8 +1,33 @@
 <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Bewijstype>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-    <http://purl.org/dc/terms/modified> "2023-01-11" ;
+    <http://purl.org/dc/terms/modified> "2023-02-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "Het type bewijs beschrijft het soort document dat uitgereikt wordt."@nl ;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bewijstype"@nl .
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bewijstype"@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Attest> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/AttestBeroepsonderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/AttestVanAlternerendeBeroepsopleiding> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/AttestVanVerworvenBekwaamheden> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/AttestVanRegelmatigeLesbijwoningInHetOnthaaljaar> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/BewijsVanBeroepskwalificatie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/BewijsVanDeelkwalificatie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Brevet> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/BuitenlandsBewijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Certificaat> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Deelattest> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Deelcertificaat> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Deelgetuigschrift> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Diploma> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Gelijkwaardigheid> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Getuigschrift> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/GetuigschriftVanAlternerendeBeroepsopleiding> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/GetuigschriftVanVerworvenCompetenties> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Kwalificatiegetuigschrift> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Modulebewijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Modulegetuigschrift> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/NietBeschikbaar> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Orienteringsattest> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Studiegetuigschrift> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/WettelijkCertificaat> .
 
 <https://solid.data.vlaanderen.be/id/concept/Leercredential/Bewijstype/Attest>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;

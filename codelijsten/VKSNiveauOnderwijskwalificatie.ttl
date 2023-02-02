@@ -1,8 +1,18 @@
 <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/VKSNiveauOnderwijskwalificatie>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-    <http://purl.org/dc/terms/modified> "2023-01-18" ;
+    <http://purl.org/dc/terms/modified> "2023-02-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "De VKS biedt een classificatie van onderwijsprogramma's op het Vlaamse niveau."@nl ;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "VKSNiveauOnderwijskwalificatie"@nl .
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "VKSNiveauOnderwijskwalificatie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/1> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/2> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/3> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/4> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/5> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/6> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/7> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/8> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/Nbs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/NietVanToepassing> .
 
 <https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/1>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
@@ -67,7 +77,7 @@
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/VKSNiveauOnderwijskwalificatie> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/VKSNiveauOnderwijskwalificatie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/Nietvantoepassing>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/VKSNiveauOnderwijskwalificatie/NietVanToepassing>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "NietVanToepassing"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet van toepassing"@nl ;

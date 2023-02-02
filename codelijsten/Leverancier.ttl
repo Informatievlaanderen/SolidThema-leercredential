@@ -1,8 +1,21 @@
 <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier>
   a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-  <http://purl.org/dc/terms/modified> "2023-01-18" ;
+  <http://purl.org/dc/terms/modified> "2023-02-01" ;
   <http://www.w3.org/2004/02/skos/core#definition> "De organisatie die het leerbewijs aanlevert aan de LED."@nl ;
-  <http://www.w3.org/2004/02/skos/core#prefLabel> "Leverancier"@nl .
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Leverancier"@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000853> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO003323> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000076> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO037880> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO001957> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO001846> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000332> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000854> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000079> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000334> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000078> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000039> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000090> .
 
 <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000853>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
@@ -61,13 +74,13 @@
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
   <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000332> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVOO000854>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000854>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "NARIC Vlaanderen"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "NARIC-Vlaanderen"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Leverancier> ;
-  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVOO000854> .
+  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000854> .
 
 <https://solid.data.vlaanderen.be/id/concept/Leercredential/Leverancier/OVO000079>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;

@@ -1,8 +1,16 @@
 <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Onderwijsvorm>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-    <http://purl.org/dc/terms/modified> "2023-01-11" ;
+    <http://purl.org/dc/terms/modified> "2023-02-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "De onderwijsvorm wordt enkel gebruikt voor de categorie Secundair onderwijs. Voor alle andere categorieën is de onderwijsvorm 'Niet van toepassing'."@nl ;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijsvorm"@nl .
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijsvorm"@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/A> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/ASO> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/B> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/BSO> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/KSO> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/NietBeschikbaar> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/NietVanToepassing> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/TSO> .
 
 <https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/A>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
@@ -11,7 +19,7 @@
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Onderwijsvorm> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Onderwijsvorm> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/Aso>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/ASO>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "ASO"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "ASO"@nl ;
@@ -25,14 +33,14 @@
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Onderwijsvorm> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Onderwijsvorm> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/Bso>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/BSO>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "BSO"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "BSO"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Onderwijsvorm> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Onderwijsvorm> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/Kso>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/KSO>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "KSO"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "KSO"@nl ;
@@ -53,7 +61,7 @@
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Onderwijsvorm> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Onderwijsvorm> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/Tso>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential/Onderwijsvorm/TSO>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "TSO"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "TSO"@nl ;
