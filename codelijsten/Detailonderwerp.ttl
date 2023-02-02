@@ -1,5 +1,5 @@
 <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Detailonderwerp>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-    <http://purl.org/dc/terms/modified> "2023-01-11" ;
+    <http://purl.org/dc/terms/modified> "2023-02-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "Het detailonderwerp is op zijn beurt een verdere verfijning van de specialisatie."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Detailonderwerp"@nl .
