@@ -91,7 +91,7 @@
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/861> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/862> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/863> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/999> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/999> .
 
 <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDStudiegebied/010>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
