@@ -122,4 +122,4 @@
     <http://www.w3.org/2004/02/skos/core#notation> "Taalexamen"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Taalexamen"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Categorie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Categorie> .s
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Categorie> .
