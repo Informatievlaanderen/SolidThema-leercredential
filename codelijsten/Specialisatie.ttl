@@ -1,4 +1,4 @@
-<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Specialisatie>
+<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Specialisatie>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
     <http://purl.org/dc/terms/modified> "2023-02-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "De specialisatie is een verdere verfijning van de studierichting."@nl ;

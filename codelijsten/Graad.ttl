@@ -1,493 +1,493 @@
-<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad>
+<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
     <http://purl.org/dc/terms/modified> "2023-02-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "De graad is een verplicht gegeven voor alle onderwijscategorieën (lager, secundair, hoger en hoger beroeps). Voor alle andere categorieën, is de graad 'Niet van toepassing'."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Graad"@nl ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/1SteGraad> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/2DeGraad> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/3DeGraad> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/3DeGraad7DeLeerjaar> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/4DeGraad> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/AcademischeBachelor> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/AcademischeInitieleLerarenopleiding> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Apotheker> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Architect> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/ArchitectAssistent> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Arts> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/AssistentInDePsychologie> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Bachelor> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/BachelorNaBachelor> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/BioIngenieur> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/BurgerlijkIngenieur> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/BurgerlijkIngenieurArchitect> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Dierenarts> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Doctor> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/DoctorInDeDierengeneeskundeZonderProefschrift> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/DoctorInDeGeneesHeelEnVerloskundeZonderProefschrift> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GeaggregeerdeVoorHetLagerSecundairOnderwijs> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GeaggregeerdeVoorHetSecundairOnderwijsGroep1> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GeaggregeerdeVoorHetSecundairOnderwijsGroep2> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GediplomeerdeAanvullendeStudies> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GediplomeerdeGespecialiseerdeStudies> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GediplomeerdeVoortgezetteStudies> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Graduaat> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GraduaatHbo5> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GraduaatVwo> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Handelsingenieur> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Hoger> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/IndustrieelIngenieur> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/IngenieurVoorDeScheikundeEnDeLandbouwindustrieen> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Interieurarchitect> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Kandidaat> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Kleuterleidster> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Kleuteronderwijzeres> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Lager> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/LandbouwkundigIngenieur> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Licentiaat> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/MaatschappelijkAdviseur> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/MaatschappelijkAssistent> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Master> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/MasterNaMaster> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Meester> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Modulair> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/NietBeschikbaar> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/NietVanToepassing> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Onderwijzeres> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Ov1> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Ov2> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Ov3> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Postgraduaat> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/ProfessioneleBachelor> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Sense> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/SpecifiekeLerarenopleiding> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Tandarts> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/TechnischIngenieur> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/VoortgezetteLerarenopleiding> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Vroedvrouw> .
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/1SteGraad> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/2DeGraad> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/3DeGraad> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/3DeGraad7DeLeerjaar> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/4DeGraad> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/AcademischeBachelor> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/AcademischeInitieleLerarenopleiding> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Apotheker> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Architect> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/ArchitectAssistent> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Arts> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/AssistentInDePsychologie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Bachelor> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/BachelorNaBachelor> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/BioIngenieur> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/BurgerlijkIngenieur> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/BurgerlijkIngenieurArchitect> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Dierenarts> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Doctor> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/DoctorInDeDierengeneeskundeZonderProefschrift> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/DoctorInDeGeneesHeelEnVerloskundeZonderProefschrift> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GeaggregeerdeVoorHetLagerSecundairOnderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GeaggregeerdeVoorHetSecundairOnderwijsGroep1> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GeaggregeerdeVoorHetSecundairOnderwijsGroep2> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GediplomeerdeAanvullendeStudies> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GediplomeerdeGespecialiseerdeStudies> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GediplomeerdeVoortgezetteStudies> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Graduaat> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GraduaatHbo5> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GraduaatVwo> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Handelsingenieur> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Hoger> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/IndustrieelIngenieur> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/IngenieurVoorDeScheikundeEnDeLandbouwindustrieen> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Interieurarchitect> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Kandidaat> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Kleuterleidster> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Kleuteronderwijzeres> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Lager> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/LandbouwkundigIngenieur> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Licentiaat> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/MaatschappelijkAdviseur> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/MaatschappelijkAssistent> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Master> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/MasterNaMaster> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Meester> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Modulair> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/NietBeschikbaar> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/NietVanToepassing> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Onderwijzeres> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Ov1> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Ov2> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Ov3> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Postgraduaat> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/ProfessioneleBachelor> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Sense> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/SpecifiekeLerarenopleiding> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Tandarts> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/TechnischIngenieur> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/VoortgezetteLerarenopleiding> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Vroedvrouw> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/1SteGraad>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/1SteGraad>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "1ste graad"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "1ste graad"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/2DeGraad>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/2DeGraad>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "2de graad"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "2de graad"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/3DeGraad>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/3DeGraad>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "3de graad"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "3de graad"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/3DeGraad7DeLeerjaar>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/3DeGraad7DeLeerjaar>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "3de graad, 7de leerjaar"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "3de graad, 7de leerjaar"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/4DeGraad>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/4DeGraad>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "4de graad"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "4de graad"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/AcademischeBachelor>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/AcademischeBachelor>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Academische bachelor"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Academische bachelor"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/AcademischeInitieleLerarenopleiding>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/AcademischeInitieleLerarenopleiding>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Academische initiële lerarenopleiding"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Academische initiële lerarenopleiding"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Apotheker>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Apotheker>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Apotheker"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Apotheker"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Architect>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Architect>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Architect"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Architect"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/ArchitectAssistent>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/ArchitectAssistent>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Architect-assistent"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Architect-assistent"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Arts>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Arts>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Arts"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Arts"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/AssistentInDePsychologie>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/AssistentInDePsychologie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Assistent in de psychologie"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Assistent in de psychologie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Bachelor>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Bachelor>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Bachelor"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Bachelor"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/BachelorNaBachelor>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/BachelorNaBachelor>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Bachelor na bachelor"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Bachelor na bachelor"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/BioIngenieur>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/BioIngenieur>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Bio-ingenieur"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Bio-ingenieur"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/BurgerlijkIngenieur>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/BurgerlijkIngenieur>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Burgerlijk ingenieur"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Burgerlijk ingenieur"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/BurgerlijkIngenieurArchitect>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/BurgerlijkIngenieurArchitect>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Burgerlijk ingenieur-architect"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Burgerlijk ingenieur-architect"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Dierenarts>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Dierenarts>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Dierenarts"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Dierenarts"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Doctor>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Doctor>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Doctor"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Doctor"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/DoctorInDeDierengeneeskundeZonderProefschrift>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/DoctorInDeDierengeneeskundeZonderProefschrift>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Doctor in de dierengeneeskunde zonder proefschrift"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Doctor in de dierengeneeskunde zonder proefschrift"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/DoctorInDeGeneesHeelEnVerloskundeZonderProefschrift>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/DoctorInDeGeneesHeelEnVerloskundeZonderProefschrift>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Doctor in de genees-, heel- en verloskunde zonder proefschrift"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Doctor in de genees-, heel- en verloskunde zonder proefschrift"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GeaggregeerdeVoorHetLagerSecundairOnderwijs>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GeaggregeerdeVoorHetLagerSecundairOnderwijs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Geaggregeerde voor het lager secundair onderwijs"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geaggregeerde voor het lager secundair onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GeaggregeerdeVoorHetSecundairOnderwijsGroep1>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GeaggregeerdeVoorHetSecundairOnderwijsGroep1>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Geaggregeerde voor het secundair onderwijs groep 1"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geaggregeerde voor het secundair onderwijs groep 1"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GeaggregeerdeVoorHetSecundairOnderwijsGroep2>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GeaggregeerdeVoorHetSecundairOnderwijsGroep2>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Geaggregeerde voor het secundair onderwijs groep 2"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Geaggregeerde voor het secundair onderwijs groep 2"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GediplomeerdeAanvullendeStudies>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GediplomeerdeAanvullendeStudies>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Gediplomeerde aanvullende studies (GAS)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Gediplomeerde aanvullende studies (GAS)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GediplomeerdeGespecialiseerdeStudies>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GediplomeerdeGespecialiseerdeStudies>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Gediplomeerde gespecialiseerde studies (GGS)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Gediplomeerde gespecialiseerde studies (GGS)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GediplomeerdeVoortgezetteStudies>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GediplomeerdeVoortgezetteStudies>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Gediplomeerde voortgezette studies (GVS)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Gediplomeerde voortgezette studies (GVS)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Graduaat>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Graduaat>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Graduaat"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Graduaat"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GraduaatHbo5>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GraduaatHbo5>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Graduaat HBO5"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Graduaat HBO5"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/GraduaatVwo>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/GraduaatVwo>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Graduaat VWO"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Graduaat VWO"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Handelsingenieur>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Handelsingenieur>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Handelsingenieur"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Handelsingenieur"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Hoger>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Hoger>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Hoger"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/IndustrieelIngenieur>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/IndustrieelIngenieur>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Industrieel ingenieur"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Industrieel ingenieur"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/IngenieurVoorDeScheikundeEnDeLandbouwindustrieen>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/IngenieurVoorDeScheikundeEnDeLandbouwindustrieen>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Ingenieur voor de scheikunde en de landbouwindustrieën"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Ingenieur voor de scheikunde en de landbouwindustrieën"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Interieurarchitect>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Interieurarchitect>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Interieurarchitect"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Interieurarchitect"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Kandidaat>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Kandidaat>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Kandidaat"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Kandidaat"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Kleuterleidster>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Kleuterleidster>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Kleuterleid(st)er"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleuterleid(st)er"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Kleuteronderwijzeres>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Kleuteronderwijzeres>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Kleuteronderwijzer(es)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleuteronderwijzer(es)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Lager>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Lager>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Lager"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Lager"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/LandbouwkundigIngenieur>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/LandbouwkundigIngenieur>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Landbouwkundig ingenieur"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Landbouwkundig ingenieur"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Licentiaat>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Licentiaat>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Licentiaat"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Licentiaat"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/MaatschappelijkAdviseur>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/MaatschappelijkAdviseur>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Maatschappelijk adviseur"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Maatschappelijk adviseur"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/MaatschappelijkAssistent>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/MaatschappelijkAssistent>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Maatschappelijk assistent"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Maatschappelijk assistent"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Master>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Master>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Master"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Master"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/MasterNaMaster>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/MasterNaMaster>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Master na master"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Master na master"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Meester>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Meester>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Meester"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Meester"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Modulair>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Modulair>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Modulair"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Modulair"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/NietBeschikbaar>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/NietBeschikbaar>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Niet beschikbaar"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beschikbaar"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/NietVanToepassing>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/NietVanToepassing>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Niet van toepassing"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet van toepassing"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Onderwijzeres>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Onderwijzeres>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Onderwijzer(es)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijzer(es)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Ov1>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Ov1>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "OV1"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "OV1"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Ov2>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Ov2>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "OV2"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "OV2"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Ov3>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Ov3>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "OV3"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "OV3"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Postgraduaat>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Postgraduaat>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Postgraduaat"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Postgraduaat"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/ProfessioneleBachelor>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/ProfessioneleBachelor>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Professionele bachelor"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Professionele bachelor"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Sense>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Sense>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Sense"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Sense"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/SpecifiekeLerarenopleiding>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/SpecifiekeLerarenopleiding>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Specifieke lerarenopleiding"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Specifieke lerarenopleiding"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Tandarts>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Tandarts>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Tandarts"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Tandarts"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/TechnischIngenieur>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/TechnischIngenieur>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Technisch ingenieur"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Technisch ingenieur"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/VoortgezetteLerarenopleiding>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/VoortgezetteLerarenopleiding>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Voortgezette lerarenopleiding"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Voortgezette lerarenopleiding"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Graad/Vroedvrouw>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Graad/Vroedvrouw>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Vroedvrouw"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Vroedvrouw"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Graad> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Graad> .

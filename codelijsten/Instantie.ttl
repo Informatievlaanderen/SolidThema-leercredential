@@ -1,237 +1,237 @@
-<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie>
+<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
     <http://purl.org/dc/terms/modified> "2023-02-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "De instantie is de organisatie die het bewijs uitreikt. Merk op dat het hier een hogere classificatie betreft (Bv. Hogeschool) en dus niet de naam van de instantie zelf, deze bevindt zich op het niveau van het bewijs zelf."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Instantie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/AndereInstellingHogerOnderwijs> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/BelgischeVerenigingVoorLastechniek> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/BuitenlandseInstantie> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentraleExamencommissie> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentrumInburgering> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentrumVoorBasiseducatie> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentrumVoorDeeltijdsOnderwijs> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentrumVoorVolwassenenonderwijs> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/DepartementLeefmilieuNatuurEnEnergieVanDeVlaamseOverheid> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/ExamencommissieSecundairOnderwijs> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/FederaleOverheidDienstMobiliteit> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/FederaleOverheidDienstMobiliteitAfdelingMaritiemVervoer> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/FederaleOverheidsDienstEconomie> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Hogeschool> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/LagereSchool> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/NaricVlaanderen> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/NietBeschikbaar> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Onthaalbureau> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/PrivateOrganisatie> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/ReligieExamenOrganisator> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/SecundaireSchool> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/SyntraVlaanderen> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Syntra> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Taalexamencommissie> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Universiteit> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/VlaamsInstituutVoorZelfstandigOndernemen> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/VlaamsSubsidieagentschapWerkEnSocialeEconomie> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/VlaamseDienstVoorArbeidsbemiddelingEnBeroepsopleiding> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/VlaamseOverheid> .
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/AndereInstellingHogerOnderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/BelgischeVerenigingVoorLastechniek> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/BuitenlandseInstantie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentraleExamencommissie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentrumInburgering> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentrumVoorBasiseducatie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentrumVoorDeeltijdsOnderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentrumVoorVolwassenenonderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/DepartementLeefmilieuNatuurEnEnergieVanDeVlaamseOverheid> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/ExamencommissieSecundairOnderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/FederaleOverheidDienstMobiliteit> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/FederaleOverheidDienstMobiliteitAfdelingMaritiemVervoer> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/FederaleOverheidsDienstEconomie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Hogeschool> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/LagereSchool> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/NaricVlaanderen> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/NietBeschikbaar> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Onthaalbureau> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/PrivateOrganisatie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/ReligieExamenOrganisator> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/SecundaireSchool> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/SyntraVlaanderen> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Syntra> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Taalexamencommissie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Universiteit> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/VlaamsInstituutVoorZelfstandigOndernemen> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/VlaamsSubsidieagentschapWerkEnSocialeEconomie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/VlaamseDienstVoorArbeidsbemiddelingEnBeroepsopleiding> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/VlaamseOverheid> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/AndereInstellingHogerOnderwijs>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/AndereInstellingHogerOnderwijs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Andere instelling Hoger Onderwijs"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Andere instelling Hoger Onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/BelgischeVerenigingVoorLastechniek>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/BelgischeVerenigingVoorLastechniek>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Belgische Vereniging voor Lastechniek (BVL)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Belgische Vereniging voor Lastechniek (BVL)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/BuitenlandseInstantie>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/BuitenlandseInstantie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Buitenlandse instantie"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Buitenlandse instantie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentraleExamencommissie>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentraleExamencommissie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Centrale Examencommissie"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Centrale Examencommissie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentrumInburgering>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentrumInburgering>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Centrum Inburgering"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Centrum Inburgering"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentrumVoorBasiseducatie>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentrumVoorBasiseducatie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Centrum voor Basiseducatie (CBE)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Centrum voor Basiseducatie (CBE)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentrumVoorDeeltijdsOnderwijs>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentrumVoorDeeltijdsOnderwijs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Centrum voor Deeltijds Onderwijs (CDO)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Centrum voor Deeltijds Onderwijs (CDO)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/CentrumVoorVolwassenenonderwijs>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/CentrumVoorVolwassenenonderwijs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Centrum voor Volwassenenonderwijs (CVO)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Centrum voor Volwassenenonderwijs (CVO)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/DepartementLeefmilieuNatuurEnEnergieVanDeVlaamseOverheid>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/DepartementLeefmilieuNatuurEnEnergieVanDeVlaamseOverheid>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Departement Leefmilieu, Natuur en Energie van de Vlaamse overheid"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Departement Leefmilieu, Natuur en Energie van de Vlaamse overheid"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/ExamencommissieSecundairOnderwijs>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/ExamencommissieSecundairOnderwijs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Examencommissie secundair onderwijs"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Examencommissie secundair onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/FederaleOverheidDienstMobiliteit>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/FederaleOverheidDienstMobiliteit>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Federale Overheid Dienst Mobiliteit"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Federale Overheid Dienst Mobiliteit"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/FederaleOverheidDienstMobiliteitAfdelingMaritiemVervoer>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/FederaleOverheidDienstMobiliteitAfdelingMaritiemVervoer>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Federale Overheid Dienst Mobiliteit afdeling Maritiem Vervoer"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Federale Overheid Dienst Mobiliteit afdeling Maritiem Vervoer"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/FederaleOverheidsDienstEconomie>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/FederaleOverheidsDienstEconomie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Federale Overheids Dienst Economie"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Federale Overheids Dienst Economie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Hogeschool>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Hogeschool>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Hogeschool"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Hogeschool"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/LagereSchool>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/LagereSchool>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Lagere school"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Lagere school"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/NaricVlaanderen>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/NaricVlaanderen>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "NARIC-Vlaanderen"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "NARIC-Vlaanderen"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/NietBeschikbaar>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/NietBeschikbaar>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Niet beschikbaar"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beschikbaar"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Onthaalbureau>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Onthaalbureau>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Onthaalbureau"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Onthaalbureau"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/PrivateOrganisatie>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/PrivateOrganisatie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Private organisatie"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Private organisatie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/ReligieExamenOrganisator>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/ReligieExamenOrganisator>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Religie-examen Organisator"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Religie-examen Organisator"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/SecundaireSchool>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/SecundaireSchool>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Secundaire school"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Secundaire school"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/SyntraVlaanderen>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/SyntraVlaanderen>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "SYNTRA Vlaanderen"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "SYNTRA Vlaanderen"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Syntra>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Syntra>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "SYNTRA"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "SYNTRA"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Taalexamencommissie>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Taalexamencommissie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Taalexamencommissie"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Taalexamencommissie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/Universiteit>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/Universiteit>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Universiteit"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Universiteit"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/VlaamsInstituutVoorZelfstandigOndernemen>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/VlaamsInstituutVoorZelfstandigOndernemen>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Vlaams Instituut Voor Zelfstandig Ondernemen (VIZO)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams Instituut Voor Zelfstandig Ondernemen (VIZO)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/VlaamsSubsidieagentschapWerkEnSocialeEconomie>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/VlaamsSubsidieagentschapWerkEnSocialeEconomie>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Vlaams Subsidieagentschap Werk en Sociale Economie (VSAWSE)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams Subsidieagentschap Werk en Sociale Economie (VSAWSE)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/VlaamseDienstVoorArbeidsbemiddelingEnBeroepsopleiding>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/VlaamseDienstVoorArbeidsbemiddelingEnBeroepsopleiding>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB)"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB)"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Instantie/VlaamseOverheid>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Instantie/VlaamseOverheid>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Vlaamse overheid"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse overheid"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Instantie> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Instantie> .

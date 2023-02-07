@@ -1,37 +1,37 @@
-<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Schooltype>
+<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Schooltype>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
     <http://purl.org/dc/terms/modified> "2023-02-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "Het type school is enkel relevant voor de categorie secundair onderwijs; voor de andere categorieën is het type school 'Niet van toepassing'."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Schooltype"@nl ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Schooltype/Buitengewoon> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Schooltype/Gewoon> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Schooltype/NietBeschikbaar> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/Schooltype/NietVanToepassing> .
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Schooltype/Buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Schooltype/Gewoon> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Schooltype/NietBeschikbaar> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Schooltype/NietVanToepassing> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Schooltype/Buitengewoon>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Schooltype/Buitengewoon>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Buitengewoon"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Buitengewoon"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Schooltype> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Schooltype> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Schooltype> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Schooltype> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Schooltype/Gewoon>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Schooltype/Gewoon>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Gewoon"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Gewoon"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Schooltype> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Schooltype> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Schooltype> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Schooltype> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Schooltype/NietBeschikbaar>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Schooltype/NietBeschikbaar>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Niet beschikbaar"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beschikbaar"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Schooltype> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Schooltype> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Schooltype> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Schooltype> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/Schooltype/NietVanToepassing>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Schooltype/NietVanToepassing>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Niet van toepassing"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet van toepassing"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Schooltype> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/Schooltype> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Schooltype> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Schooltype> .

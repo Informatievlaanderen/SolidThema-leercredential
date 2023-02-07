@@ -1,109 +1,109 @@
-<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau>
+<https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
     <http://purl.org/dc/terms/modified> "2023-02-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "ISCED biedt een classificatie van onderwijsprogramma's en studierichtingen volgens hun onderwijsniveau en -vorm, alsook volgens onderwijsnet en de modaliteit van voorziening (voltijds en/of deeltijds). De mogelijke waarden zijn gebaseerd op International Standard Classification of Education ISCED 1997."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "ISCEDNiveau"@nl ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/0> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/1> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/2> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/3> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/3A> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/3C> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/4> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/5> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/5A> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/5B> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/6> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/Nbs> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/Nvt> .
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/0> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/1> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/2> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/3> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/3A> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/3C> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/4> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/5> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/5A> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/5B> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/6> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/Nbs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/Nvt> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/0>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/0>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "0"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleuteronderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/1>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/1>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "1"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Lager onderwijs - Basiseducatie"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/2>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/2>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "2"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "1e graad secundair onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/3>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/3>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "3"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "2e en 3e graad secundair onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/3A>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/3A>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "3A"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "ASO, TSO en KSO Secundair onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/3C>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/3C>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "3C"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "BSO Secundair onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/4>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/4>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "4"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Post-secundair niet-hoger onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/5>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/5>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "5"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/5A>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/5A>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "5A"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger academisch onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/5B>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/5B>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "5B"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger professioneel onderwijs"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/6>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/6>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "6"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Doctoraat"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/Nbs>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/Nbs>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "NBS"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beschikbaar"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential/ISCEDNiveau/Nvt>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-ISCEDNiveau/Nvt>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "NVT"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet van toepassing"@nl ;
-    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential/ISCEDNiveau> .
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-ISCEDNiveau> .
