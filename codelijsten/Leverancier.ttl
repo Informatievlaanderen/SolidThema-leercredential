@@ -49,14 +49,23 @@
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Leverancier> ;
   <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO037880> .
 
-<https://solid.data.vlaanderen.be/id/concept/Leercredential-Leverancier/OVO001957>
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Leverancier/OVO001957-HogerOnderwijs>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
-  <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger- en Volwassenenonderwijs"@nl ;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoger Onderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Hoger onderwijs"@nl ;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Leverancier> ;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Leverancier> ;
+  <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://data.vlaanderen.be/id/organisatie/OVO001957> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Leverancier/OVO001957-HogerOnderwijs> .
+
+<https://solid.data.vlaanderen.be/id/concept/Leercredential-Leverancier/OVO001957-Volwassenenonderwijs>
+  a <http://www.w3.org/2004/02/skos/core#Concept> ;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Volwassenenonderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "Volwassenenonderwijs"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Leverancier> ;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Leverancier> ;
-  <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO001957> .
+  <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://data.vlaanderen.be/id/organisatie/OVO001957> ;
+  <http://www.w3.org/2002/07/owl#sameAs> <https://solid.data.vlaanderen.be/id/concept/Leercredential-Leverancier/OVO001957-Volwassenenonderwijs> .
 
 <https://solid.data.vlaanderen.be/id/concept/Leercredential-Leverancier/OVO001846>
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
