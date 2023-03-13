@@ -80,6 +80,7 @@
 <https://solid.data.vlaanderen.be/id/concept/Leercredential-VKSNiveauOnderwijskwalificatie/NietVanToepassing>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "NietVanToepassing"@nl ;
+    <http://www.w3.org/2004/02/skos/core#notation> "NVT"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet van toepassing"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-VKSNiveauOnderwijskwalificatie> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-VKSNiveauOnderwijskwalificatie> .
