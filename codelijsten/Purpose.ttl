@@ -1,0 +1,15 @@
+<https://solid.data.vlaanderen.be/id/conceptscheme/Purpose>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/modified> "2023-03-15" ;
+    <http://www.w3.org/2004/02/skos/core#definition> "The reason or justification for processing of personal data."@en ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Purpose"@en ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Purpose/Randstad-Sollicitatie> .
+
+<https://solid.data.vlaanderen.be/id/concept/Purpose/Randstad-Sollicitatie>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ,
+    <https://w3id.org/dpv/dpv-owl#Purpose> ,
+    <https://w3id.org/dpv/dpv-owl#PersonnelHiring> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Sollicitatie via Randstad"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sollicitatie via Randstad"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Purpose> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Purpose> .
