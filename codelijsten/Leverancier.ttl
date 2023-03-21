@@ -88,6 +88,7 @@
   a <http://www.w3.org/2004/02/skos/core#Concept> ;
   <http://www.w3.org/2004/02/skos/core#prefLabel> "NARIC Vlaanderen"@nl ;
   <http://www.w3.org/2004/02/skos/core#notation> "NARIC-Vlaanderen"@nl ;
+  <http://www.w3.org/2004/02/skos/core#notation> "NARIC Vlaanderen"@nl ;
   <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Leverancier> ;
   <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Leercredential-Leverancier> ;
   <http://www.w3.org/2002/07/owl#sameAs> <https://data.vlaanderen.be/id/organisatie/OVO000854> .
