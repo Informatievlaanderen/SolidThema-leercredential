@@ -1,2 +1,4 @@
 2023-05-01
-  - Updated to new ELM URIs
+  - Updated to new ELM URIs (prefix http://data.europa.eu/snb/model/elm/ instead of https://data.europa.eu/snb/model#)
+  - Fixed URI Identificator.uitgevendeAutoriteitUri from http://purl.org/dc/term/creator to http://purl.org/dc/terms/creator
+  - Fixed URI of Voorstelling.titel from http://purl.org/dc/title to http://purl.org/dc/terms/title
