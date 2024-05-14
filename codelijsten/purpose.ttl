@@ -1,7 +1,7 @@
 <https://solid.data.vlaanderen.be/id/conceptscheme/purpose>
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
-    <http://purl.org/dc/terms/issued> "2024-04-30" ;
-    <http://purl.org/dc/terms/modified> "2024-05-14" ;
+    <http://purl.org/dc/terms/issued> "2024-04-30T10:12:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2024-05-14T14:22:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
     <http://www.w3.org/2004/02/skos/core#definition> "The reason or justification for processing of personal data."@en ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Purpose"@en ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept>
@@ -12,21 +12,21 @@
 
 <https://solid.data.vlaanderen.be/id/concept/purpose/RandstadSollicitatie>
     a <http://www.w3.org/2004/02/skos/core#Concept> , <https://w3id.org/dpv/dpv-owl#Purpose> ;
-    <http://purl.org/dc/terms/issued> "2024-04-30" ;
+    <http://purl.org/dc/terms/issued> "2024-04-30T10:12:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Sollicitatie via Randstad."@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/purpose> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/purpose> .
 
 <https://solid.data.vlaanderen.be/id/concept/purpose/SandboxDataUserDemoJobApplication>
     a <http://www.w3.org/2004/02/skos/core#Concept> , <https://w3id.org/dpv/dpv-owl#Purpose> ;
-    <http://purl.org/dc/terms/issued> "2024-04-30" ;
+    <http://purl.org/dc/terms/issued> "2024-04-30T10:12:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Delen van diploma ter ondersteuning van demo scenario sollicatie."@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/purpose> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/purpose> .
 
 <https://solid.data.vlaanderen.be/id/concept/purpose/VPPSharingPurpose>
     a <http://www.w3.org/2004/02/skos/core#Concept> , <https://w3id.org/dpv/dpv-owl#Purpose> ;
-    <http://purl.org/dc/terms/issued> "2024-05-14" ;
+    <http://purl.org/dc/terms/issued> "2024-05-14T14:22:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Improve the quality of care."@en ,
                                                     "Améliorer la qualité des soins."@fr ,
                                                     "Kwaliteit van zorg verbeteren."@nl ;
@@ -35,7 +35,7 @@
 
 <https://solid.data.vlaanderen.be/id/concept/purpose/WeAreContainerSharingPurpose>
     a <http://www.w3.org/2004/02/skos/core#Concept> , <https://w3id.org/dpv/dpv-owl#Purpose> ;
-    <http://purl.org/dc/terms/issued> "2024-05-14" ;
+    <http://purl.org/dc/terms/issued> "2024-05-14T14:22:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Save to data vault"@en ,
                                                     "Sauvgarder dans votre pod."@fr ,
                                                     "Opslaan in datakluis"@nl ;
