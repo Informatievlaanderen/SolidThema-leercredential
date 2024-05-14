@@ -6,7 +6,9 @@
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Purpose"@en ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept>
         <https://solid.data.vlaanderen.be/id/concept/purpose/RandstadSollicitatie> ,
-        <https://solid.data.vlaanderen.be/id/concept/purpose/SandboxDataUserDemoJobApplication> .
+        <https://solid.data.vlaanderen.be/id/concept/purpose/SandboxDataUserDemoJobApplication> ,
+        <https://solid.data.vlaanderen.be/id/concept/purpose/VPPSharingPurpose> ,
+        <https://solid.data.vlaanderen.be/id/concept/purpose/WeAreContainerSharingPurpose> .
 
 <https://solid.data.vlaanderen.be/id/concept/purpose/RandstadSollicitatie>
     a <http://www.w3.org/2004/02/skos/core#Concept> , <https://w3id.org/dpv/dpv-owl#Purpose> ;
