@@ -1,0 +1,29 @@
+<https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/modified> "2024-06-01" ;
+    <http://www.w3.org/2004/02/skos/core#definition> "Soort niveau."@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Soort niveau."@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Kleuter> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Lager> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Secundair> .
+        
+<https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Kleuter>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Kleuter"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleuter"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Lager>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Lager"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lager"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Secundair>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Secundair"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Secundair"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> .
