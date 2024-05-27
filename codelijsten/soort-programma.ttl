@@ -9,21 +9,21 @@
         
 <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-programma/Voltijds>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
-    <http://www.w3.org/2004/02/skos/core#notation> "Voltijds"@nl ;
+    <http://www.w3.org/2004/02/skos/core#notation> "1"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Voltijds"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/soort-programma> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/soort-programma> .
 
 <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-programma/Deeltijds>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
-    <http://www.w3.org/2004/02/skos/core#notation> "Deeltijds"@nl ;
+    <http://www.w3.org/2004/02/skos/core#notation> "2"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Deeltijds"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/soort-programma> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/soort-programma> .
 
 <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-programma/Syntra>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
-    <http://www.w3.org/2004/02/skos/core#notation> "Syntra (Leertijd)"@nl ;
+    <http://www.w3.org/2004/02/skos/core#notation> "5"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntra (Leertijd)"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/soort-programma> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/soort-programma> .
