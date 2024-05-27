@@ -9,21 +9,21 @@
         
 <https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Kleuter>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
-    <http://www.w3.org/2004/02/skos/core#notation> "Kleuter"@nl ;
+    <http://www.w3.org/2004/02/skos/core#notation> "1"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Kleuter"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> .
 
 <https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Lager>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
-    <http://www.w3.org/2004/02/skos/core#notation> "Lager"@nl ;
+    <http://www.w3.org/2004/02/skos/core#notation> "2"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Lager"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> .
 
 <https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Secundair>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
-    <http://www.w3.org/2004/02/skos/core#notation> "Secundair"@nl ;
+    <http://www.w3.org/2004/02/skos/core#notation> "3"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Secundair"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-niveau> .
