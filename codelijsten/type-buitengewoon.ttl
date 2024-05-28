@@ -1,0 +1,85 @@
+<https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/modified> "2024-06-01" ;
+    <http://www.w3.org/2004/02/skos/core#definition> "Type buitengewoon."@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Type buitengewoon."@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/LichteMentaleHandicap> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/MatigeOfErnstigeMentaleHandicap> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/KaraktrieleStoornis> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/LichamelijkeHandicap> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/LangdurigZiek> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/VisueleHandicap> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/AuditieveHandicap> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/ErnstigeLeerstoornissen> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/Autismespectrumstoornis> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/Basisaanbod> .
+        
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/LichteMentaleHandicap>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "1"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichte mentale handicap (in afbouw vanaf schooljaar 2015-2016)"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/MatigeOfErnstigeMentaleHandicap>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "2"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Matige of ernstige mentale handicap"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/KaraktrieleStoornis>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "3"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Karakteriële stoornis"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/LichamelijkeHandicap>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "4"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichamelijke handicap"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/LangdurigZiek>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "5"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Langdurig ziek"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/VisueleHandicap>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "6"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Visuele handicap"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/AuditieveHandicap>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "7"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Auditieve handicap"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/ErnstigeLeerstoornissen>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "8"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ernstige leerstoornissen"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/Autismespectrumstoornis>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "9"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Autismespectrumstoornis (in uitbouw vanaf schooljaar 2015-2016)"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/Basisaanbod>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "BA"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Basisaanbod (in uitbouw vanaf schooljaar 2015-2016)"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-type-buitengewoon> .
