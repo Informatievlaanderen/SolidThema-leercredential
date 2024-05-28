@@ -1,0 +1,50 @@
+<https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/modified> "2024-06-01" ;
+    <http://www.w3.org/2004/02/skos/core#definition> "Soort contract."@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Soort contract"@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Actief> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Geannuleerd> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Uitgeschreven> .
+        
+<https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Diplomacontract>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "01"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diplomacontract"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Creditcontract>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "02"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Creditcontract"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Examencontract>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "03"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Examencontract"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/ExamencontractDiploma>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "04"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Examencontract diploma"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/ExamencontractCredit>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "05"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Examencontract credit"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/NietVanToepassing>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "99"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet van toepassing"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-soort-contract> .
