@@ -1,0 +1,29 @@
+<https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/modified> "2024-06-01" ;
+    <http://www.w3.org/2004/02/skos/core#definition> "Status."@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Status"@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-status/Actief> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-status/Geannuleerd> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-status/Uitgeschreven> .
+        
+<https://solid.data.vlaanderen.be/id/concept/leercredential-status/Actief>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "01"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Actief"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-status/Geannuleerd>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "02"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geannuleerd"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-status/Uitgeschreven>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "03"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Uitgeschreven"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> .
