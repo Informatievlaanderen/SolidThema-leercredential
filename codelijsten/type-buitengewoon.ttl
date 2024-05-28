@@ -2,7 +2,7 @@
     a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
     <http://purl.org/dc/terms/modified> "2024-06-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "Type buitengewoon."@nl ;
-    <http://www.w3.org/2004/02/skos/core#prefLabel> "Type buitengewoon."@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Type buitengewoon"@nl ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/LichteMentaleHandicap> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/MatigeOfErnstigeMentaleHandicap> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-type-buitengewoon/KaraktrieleStoornis> ;
