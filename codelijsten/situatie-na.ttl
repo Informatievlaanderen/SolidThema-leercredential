@@ -1,0 +1,133 @@
+<https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/modified> "2024-06-01" ;
+    <http://www.w3.org/2004/02/skos/core#definition> "Situatie na."@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Situatie na"@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/ErkendeVorming> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/VDABOfInterimkantoor> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Werken> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/VerhuisBuitenland> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/LeerlingOverleden> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Andere> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/GeenInformatie> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Wijziging> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/BuitenlandseSchool> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/InidividueelHuisonderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/PriveOnderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/FranstaligOnderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Vrijstelling> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Volwassenonderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/HogerOnderwijs> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/EindeLeerplicht> .
+        
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/ErkendeVorming>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "1"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veranderd naar erkende vorming (deeltijdse vorming, leercontract)"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/VDABOfInterimkantoor>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "4"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Inschrijving VDAB, inschrijving interimkantoor"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Werken>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "5"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Werken"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/VerhuisBuitenland>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "6"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Verhuisd naar het buitenland en loopt school in het buitenland"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/LeerlingOverleden>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "7"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Leerling is overleden"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Andere>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "9"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Andere"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/GeenInformatie>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "10"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Geen informatie"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Wijziging>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "12"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wijziging binnen de eigen school of naar andere erkende, gesubsidieerde, gefinancierde Nederlandstalige school"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/BuitenlandseSchool>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "13"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gedomicilieerd in België maar ingeschreven in een school in het buitenland"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/InidividueelHuisonderwijs>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "14"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overstap naar individueel huisonderwijs"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/PriveOnderwijs>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "15"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overstap naar het privé-onderwijs (collectief huisonderwijs)"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/FranstaligOnderwijs>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "16"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Overstap naar het Franstalig onderwijs in België"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Vrijstelling>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "17"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "(Tijdelijke) vrijstelling van de leerplicht ingevolge ziekte, handicap"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Volwassenonderwijs>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "18"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Inschrijving volwassenenonderwijs"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/HogerOnderwijs>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "19"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Inschrijving hoger onderwijs"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/EindeLeerplicht>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "20"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Einde leerplicht voor de leerling"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
