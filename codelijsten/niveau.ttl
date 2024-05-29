@@ -8,7 +8,6 @@
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Secundair> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/NietBeschikbaar> .
 
-        
 <https://solid.data.vlaanderen.be/id/concept/leercredential-niveau/Kleuter>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "1"@nl ;
