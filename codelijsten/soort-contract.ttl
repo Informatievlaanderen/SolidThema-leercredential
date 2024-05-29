@@ -7,7 +7,6 @@
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Geannuleerd> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Uitgeschreven> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/NietBeschikbaar> .
-
         
 <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Diplomacontract>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
