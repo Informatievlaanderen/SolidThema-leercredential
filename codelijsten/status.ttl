@@ -5,7 +5,8 @@
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Status"@nl ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-status/Actief> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-status/Geannuleerd> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-status/Uitgeschreven> .
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-status/Uitgeschreven> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-status/NietBeschikbaar> .
         
 <https://solid.data.vlaanderen.be/id/concept/leercredential-status/Actief>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
