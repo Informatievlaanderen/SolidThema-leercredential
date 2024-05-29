@@ -9,7 +9,8 @@
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-aanleiding/LangdurigeProblematischeAfwezigheid> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-aanleiding/AdviesSchoolOfCLB> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-aanleiding/Tucht> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-aanleiding/ProblematischeAfwezigheidWerkvloer> .
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-aanleiding/ProblematischeAfwezigheidWerkvloer> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-aanleiding/NietBeschikbaar> .
         
 <https://solid.data.vlaanderen.be/id/concept/leercredential-aanleiding/NormaalEinde>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
@@ -57,5 +58,12 @@
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "W"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "30 dagen problematische afwezigheid op werkvloer (enkel toegelaten bij DBSO)"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-aanleiding> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-aanleiding> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-aanleiding/NietBeschikbaar>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Niet beschikbaar"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beschikbaar"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-aanleiding> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-aanleiding> .
