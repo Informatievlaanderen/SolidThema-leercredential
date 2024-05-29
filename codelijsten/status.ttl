@@ -27,3 +27,10 @@
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Uitgeschreven"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-status/NietBeschikbaar>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Niet beschikbaar"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beschikbaar"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-status> .
