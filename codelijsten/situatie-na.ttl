@@ -18,7 +18,9 @@
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Vrijstelling> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/Volwassenonderwijs> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/HogerOnderwijs> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/EindeLeerplicht> .
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/EindeLeerplicht> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/NietBeschikbaar> .
+
         
 <https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/ErkendeVorming>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
@@ -129,5 +131,12 @@
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "20"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Einde leerplicht voor de leerling"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-situatie-na/NietBeschikbaar>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Niet beschikbaar"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Niet beschikbaar"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-situatie-na> .
