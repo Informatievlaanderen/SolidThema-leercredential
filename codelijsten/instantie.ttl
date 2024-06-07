@@ -10,6 +10,8 @@
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-instantie/EuropeseSchool> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-instantie/InternationaleSchool> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-instantie/BuitenlandseSchool> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-instantie/Hogeschool> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-instantie/Universiteit> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-instantie/NietBeschikbaar> .
 
 <https://solid.data.vlaanderen.be/id/concept/leercredential-instantie/Basisschool>
@@ -58,6 +60,20 @@
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "Buitenlandse school"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Buitenlandse school"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-instantie> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-instantie/Hogeschool>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Hogeschool"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hogeschool"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-instantie> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-instantie> .
+
+<https://solid.data.vlaanderen.be/id/concept/leercredential-instantie/Universiteit>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "Universiteit"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Universiteit"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-instantie> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-instantie> .
 
