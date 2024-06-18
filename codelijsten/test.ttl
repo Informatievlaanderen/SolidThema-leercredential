@@ -1,0 +1,14 @@
+<https://solid.data.vlaanderen.be/id/conceptscheme/test>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/issued> "2024-06-18T10:12:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2024-06-18T14:22:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://www.w3.org/2004/02/skos/core#definition> "Test concept scheme."@en ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Test"@en ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/test/Test> .
+
+<https://solid.data.vlaanderen.be/id/concept/test/Test>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://purl.org/dc/terms/issued> "2024-06-18T10:12:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Test concept."@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/test> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/test> .
