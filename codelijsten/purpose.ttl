@@ -28,8 +28,8 @@
     a <http://www.w3.org/2004/02/skos/core#Concept> , <https://w3id.org/dpv/dpv-owl#Purpose> ;
     <http://purl.org/dc/terms/issued> "2024-05-14T14:22:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Improve the quality of care."@en ,
-                                                    "Améliorer la qualité des soins."@fr ,
-                                                    "Kwaliteit van zorg verbeteren."@nl ;
+                                                    "Kwaliteit van zorg verbeteren."@nl ,
+                                                    "Améliorer la qualité des soins."@fr ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/purpose> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/purpose> .
 
@@ -37,7 +37,7 @@
     a <http://www.w3.org/2004/02/skos/core#Concept> , <https://w3id.org/dpv/dpv-owl#Purpose> ;
     <http://purl.org/dc/terms/issued> "2024-05-14T14:22:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Save to data vault"@en ,
-                                                    "Sauvgarder dans votre pod."@fr ,
-                                                    "Opslaan in datakluis"@nl ;
+                                                    "Opslaan in datakluis"@nl ,
+                                                    "Sauvgarder dans votre pod."@fr ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/purpose> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/purpose> .
