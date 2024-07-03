@@ -12,14 +12,14 @@
     <http://www.w3.org/2004/02/skos/core#notation> "A"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Aanloopfase duaal leren"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/duaal-leren> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/duaal-leren> .
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-duaal-leren> .
 
 <https://solid.data.vlaanderen.be/id/concept/leercredential-duaal-leren/DuaalLeren>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "D"@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Duaal leren"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/duaal-leren> ;
-    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/leercredential-conceptscheme/duaal-leren> .
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/leercredential-duaal-leren> .
 
 <https://solid.data.vlaanderen.be/id/concept/leercredential-duaal-leren/NietBeschikbaar>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
