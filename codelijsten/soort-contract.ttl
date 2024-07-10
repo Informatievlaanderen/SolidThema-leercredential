@@ -3,9 +3,12 @@
     <http://purl.org/dc/terms/modified> "2024-06-01" ;
     <http://www.w3.org/2004/02/skos/core#definition> "Soort contract."@nl ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "Soort contract"@nl ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Actief> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Geannuleerd> ;
-    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Uitgeschreven> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Diplomacontract> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Creditcontract> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Examencontract> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/ExamencontractDiploma> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/ExamencontractCredit> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/NietVanToepassing> ;
     <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/NietBeschikbaar> .
         
 <https://solid.data.vlaanderen.be/id/concept/leercredential-soort-contract/Diplomacontract>
